@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @The-Final-Apex
-This is the THIRD ACCOUNT I CREATED BECAUS OF A FEW ISSUES!
+Python Flask etc
 
-THIRD!!!
+
 
 <!---
 The-Final-Apex/The-Final-Apex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
