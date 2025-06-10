@@ -1,28 +1,7 @@
-Dealing in code of most kinds
-
-# Python
-
-- Flask
- 
-- opencv
- 
-- etc...
-
-# SQL
-
-# Javascript
-
-# NodeJS
-
-# Lua
-
-# C#
-
-- Unity
-
-and some others im too lazy to remember
-
-<!---
-The-Final-Apex/The-Final-Apex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sum random dev (very sneaky who moves sneakily)
+I also do unity (real headache)
+python
+sql
+java
+javascript (Its not the same thing trust me)
+etc i forget alot
