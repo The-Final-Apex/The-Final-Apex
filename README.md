@@ -2,8 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-final-apex&label=Profile%20views&color=0e75b6&style=flat" alt="the-final-apex" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-final-apex" alt="the-final-apex" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=The-Final-Apex&theme=onedark)](https://github.com/The-Final-Apex/github-profile-trophy)
 - 🔭 I’m currently working on **A few Unity games**
 
 - 🌱 I’m currently learning **Alot at this point**
